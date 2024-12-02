@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/mine/Index",
+    "pages/auth/Login",
+    "pages/auth/Register",
+    "CommonComponents/BaseComponents/HeaderNavigation",
+    "pages/view/MainPage",
+    "pages/Welcome/WelcomePage",
+    "pages/auth/WangjiMima",
+    "pages/auth/xiugai",
+    "pages/xiangce/xc",
+    "pages/xiangce/textContent",
+    "pages/HomePage",
+    "pages/shouye/Index",
+    "pages/shouye/Detail",
+    "pages/mine/AboutPage",
+    "pages/mine/like"
+  ]
+}

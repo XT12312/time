@@ -1,0 +1,177 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+
+    {
+      "name":"register",
+      "value": "注册"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "setup",
+      "value": "设置"
+    },
+    {
+      "name": "logout",
+      "value": "退出账号"
+    },
+    {
+      "name": "editorial_material",
+      "value": "编辑资料"
+    },
+
+
+
+    {
+      "name": "logo_info",
+      "value": "相信技术 传递价值"
+    },
+    {
+      "name": "logo_title",
+      "value": "notion"
+    },
+    {
+      "name": "register_title",
+      "value": "欢迎注册"
+    },
+    {
+      "name": "register_title_info",
+      "value": "注册登录账号即可查看更多精彩内容"
+    },
+    {
+      "name": "login_title",
+      "value": "欢迎登录"
+    },
+    {
+      "name": "login_title_info",
+      "value": "时光印记！"
+    },
+    {
+      "name": "user",
+      "value": "请输入账号"
+    },
+    {
+      "name": "password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "rpassword",
+      "value": "请确认密码"
+    },
+    {
+      "name": "email",
+      "value": "请输入邮箱"
+    },
+    {
+      "name": "v_code",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "get_v_code",
+      "value": "获取验证码"
+    },
+    {
+      "name": "send_code",
+      "value": "验证码已发送"
+    },
+    {
+      "name": "refresh_code",
+      "value": "重新获取"
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "请输入正确的账号或密码！"
+    },
+    {
+      "name": "empty_tips",
+      "value": "请完善用户信息"
+    },
+    {
+      "name": "agreement",
+      "value": "请阅读并勾选隐私协议！"
+    },
+    {
+      "name": "not_found_url",
+      "value": "页面地址不存在"
+    },
+    {
+      "name": "loading_to_jump_error",
+      "value": "进入首页异常，请退出后重新进入"
+    },
+    {
+      "name": "WangjiMima",
+      "value": "忘记密码"
+    },
+    {
+      "name": "xiugai",
+      "value": "我的信息"
+    },
+
+    {
+      "name": "reason",
+      "value": "For saving pictures"
+    },
+    {
+      "name": "image_edit",
+      "value": "图片编辑"
+    },
+    {
+      "name": "crop",
+      "value": "剪切"
+    },
+    {
+      "name": "rotate",
+      "value": "旋转"
+    },
+    {
+      "name": "adjust",
+      "value": "调节"
+    },
+    {
+      "name": "brightness",
+      "value": "亮度"
+    },
+    {
+      "name": "transparency",
+      "value": "透明度"
+    },
+    {
+      "name": "saturation",
+      "value": "饱和度"
+    },
+    {
+      "name": "save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "confirm_save",
+      "value": "你要保存你的图片吗？"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "exec_edit",
+      "value": "running exec edit."
+    }
+  ]
+}
